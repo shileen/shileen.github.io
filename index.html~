@@ -102,13 +102,6 @@
 									<p>My first Django project. Rango is a webpage directory which collects links to different pages in categories. It also has user accounts where registered users can add categories and pages.</p>
 								</article>
 							</div>
-                            <div class="4u 12u(mobile)">
-								<article class="box style2">
-									<a href="https://mitscrape.herokuapp.com/scrape/" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-									<h3><a href="https://mitscrape.herokuapp.com/scrape/">MITScrape</a></h3>
-									<p>A django app that scrapes the MIT Manipal student information portal to get most recent attendance and grade information.</p>
-								</article>
-							</div>
 							<div class="4u 12u(mobile)">
 								<article class="box style2">
 									<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
@@ -116,7 +109,13 @@
 									<p>A computer vision project. It is a python script that uses computer webcam to control mouse pointer. This script requires OpenCV and PyAutoGUI to run.</p>
 								</article>
 							</div>
-							
+							<div class="4u 12u(mobile)">
+								<article class="box style2">
+									<a href="https://mitscrape.herokuapp.com/scrape/" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<h3><a href="https://mitscrape.herokuapp.com/scrape/">MITScrape</a></h3>
+									<p>A django app that scrapes the MIT Manipal student information portal to get most recent attendance and grade information</p>
+								</article>
+							</div>
 						</div>
 						<div class="row">
 							<div class="4u 12u(mobile)">
